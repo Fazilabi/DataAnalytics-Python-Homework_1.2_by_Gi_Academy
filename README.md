@@ -1,0 +1,1 @@
+# DataAnalytics-Python-Homework_1.2_by_Gi_Academy
